@@ -1,0 +1,20 @@
+GrabIt! is an application written by Kenneth P Baldridge that retrieves specific information from a pdf file that has been dropped onto the program itself. 
+
+GrabIt! was developed to increase the productivity of AMS NC Programmers and AMS IE by allowing them to avoid opening up individual pdf files to copy the required information needed for their records.
+
+Version Control:
+
+1.0 - Original release: 
+	Ability to drop one file. Checks if it is a pdf
+	Informaiton retrieved: 
+		File Name.pdf
+		----------------------------------
+		Part number, Media, Location
+		Programmer's Name, Date, Time
+		Run Time
+
+1.1 - Added the ability to drop multiple files.
+
+*1.2 (coming next) 
+	Synchronization with an excel file.
+	Possible UI improvements.

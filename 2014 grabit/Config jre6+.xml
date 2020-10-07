@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\yh473d\Desktop\Work\Projects and work\Programming Projects\Projects\NC Programming Help (GrabIt!)\GrabIt! (11-11-2014)-Deploy.jar</jar>
+  <outfile>C:\Users\yh473d\Desktop\Work\Projects and work\Programming Projects\Projects\NC Programming Help (GrabIt!)\GrabIt!.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\yh473d\Desktop\Work\Projects and work\Programming Projects\Projects\NC Programming Help (GrabIt!)\Finalized\res\exe(ico).ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>jreOnly</jdkPreference>
+  </jre>
+</launch4jConfig>
